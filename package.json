@@ -11,7 +11,7 @@
   "author": "CodeRoad",
   "license": "MIT",
   "dependencies": {
-    "@coderoadpl/counters": "^1.0.0"
+    "@coderoadpl/counters": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
